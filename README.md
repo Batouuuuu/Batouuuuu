@@ -16,5 +16,16 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/baptiste-gillet-78b73b258/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Batouuuuu&show_icons=true&locale=en" alt="Batouuuuu" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Batouuuuu&show_icons=true&locale=en&layout=compact" alt="Batouuuuu" /></p>
+    <table>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Batouuuuu&show_icons=true&locale=en" alt="Batouuuuu" />
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Batouuuuu&show_icons=true&locale=en&layout=compact" alt="Batouuuuu" />
+    </td>
+  </tr>
+</table>
+
