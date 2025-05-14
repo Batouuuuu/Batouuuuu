@@ -1,5 +1,7 @@
 <h1>👋 Hi! I'm Baptiste, a passionate developer based in France.</h1>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/baptiste-gillet-78b73b258/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+[![linkedin](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6)](https://www.linkedin.com/in/baptiste-gillet-78b73b258/)
+[![email](https://img.shields.io/badge/email-contact?style=for-the-badge&logo=gmail&logoColor=white&color=%23D14836)](mailto:gillet.baptiste94@gmail.com)
+
 <p>Master's degree in Natural Language Processing — passionate about AI, and always exploring new challenges.</p>
 <p>Eager to learn and open to collaborate on projects. Feel free to reach out !</p>
 <h2>Languages and Tools I Use</h2>
