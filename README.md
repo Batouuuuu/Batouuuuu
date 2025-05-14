@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Baptiste, a passionate developer based in France.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Baptiste%20Gillet?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2)](https://www.linkedin.com/in/baptiste-gillet-78b73b258/)
-[![Email](https://img.shields.io/badge/Email-gillet.baptiste94@gmail.com?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)](mailto:gillet.baptiste94@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-gillet.baptiste94@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gillet.baptiste94@gmail.com)
 
 ---
 
