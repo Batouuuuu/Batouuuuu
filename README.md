@@ -24,6 +24,7 @@ Open to collaboration — feel free to reach out!
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42" alt="Seaborn" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="42" alt="Pandas" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" alt="Docker" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" alt="Postman" />
 </p>
 
