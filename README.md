@@ -34,9 +34,9 @@ Open to collaboration — feel free to reach out!
 
 <div align="center">
   <a href="https://github.com/batouuuuu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batouuuuu&hide=html,lua,makefile,css,tex,jupyter%20notebook&langs_count=4&theme=darcula" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batouuuuu&hide=html,lua,makefile,css,tex,jupyter%20notebook&langs_count=4&theme=darcula&cache_seconds=3600" height="200" />
   </a>
   <a href="https://github.com/batouuuuu">
-    <img src="https://github-readme-stats.vercel.app/api/?username=batouuuuu&theme=darcula&show_icons=true" height="200" />
+   <img src="https://github-readme-stats.vercel.app/api/?username=batouuuuu&theme=darcula&show_icons=true&cache_seconds=3600" height="200" />
   </a>
 </div>
