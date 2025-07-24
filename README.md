@@ -39,7 +39,7 @@ Open to collaboration — feel free to reach out!
 
   </a>
   <a href="https://github.com/batouuuuu">
-   <img src="https://github-readme-stats.vercel.app/api/?username=batouuuuu&theme=darcula&show_icons=true&cache_seconds=3600&v=2" height="200" />
+   <img src="https://github-readme-stats.vercel.app/api/?username=batouuuuu&theme=darcula&show_icons=true&cache_seconds=1800&v=3" height="200" />
 
   </a>
 </div>
